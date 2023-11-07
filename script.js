@@ -1,2 +1,2 @@
-console.log(test 2);
+console.log(test !!!!!!!!!);
 document.body.innerHTML= '<h1>Hello from JavaScript</h1>'
